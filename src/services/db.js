@@ -1,4 +1,4 @@
-require('dotenv').config({ path: '../env/tokens.env' });
+require('dotenv').config({ path: '../env/.env' });
 const Sequelize = require('sequelize');
 const logger = require('../controllers/helpers/logger');
 

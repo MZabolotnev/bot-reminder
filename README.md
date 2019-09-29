@@ -2,7 +2,7 @@ Before starting the server, you must:
 
 1) Install and create PostgreSQL 
 
-2) In the src folder create env / tokens.env containing data:
+2) In the src folder create .env containing data:
 
     FACEBOOK_ACCESS_TOKEN=<<Your token>>
     DIALOGFLOW_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----<<Your key>>-----END PRIVATE KEY-----\n"
@@ -16,8 +16,10 @@ Before starting the server, you must:
     
     WEBHOOK_VERIFY_TOKEN=<<Your verify webhook token>>
     
-3) Run npm install
+3) In the root folder create .log
+    
+4) Run npm install
 
-4) Start the server with a command node app.js
+5) Start the server with a command node app.js
     
 
