@@ -1,0 +1,8 @@
+{
+  "remImgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alarms_%26_Clock_icon.png",
+  "dbDailyLimit": 4,
+  "dbCronyInterval": 5,
+  "snoozeTime": 15,
+  "schedulerRepeatTime": 15,
+  "collectorIntervalTimeSec": 300000
+}

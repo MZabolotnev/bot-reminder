@@ -1,0 +1,26 @@
+{
+  "pm": {
+    "add": "Successfully added.",
+    "change": "Successfully changed."
+  },
+  "tm": {
+    "rmSnoozeTitle": "Snooze",
+    "rmDeleteTitle": "Delete",
+    "rmOnceSubtitle": "This is a one-time reminder.",
+    "rmDailySubtitle": "This is an everyday reminder. If you want to remove it, click the delete button.",
+    "btText": "What do you want to do next?",
+    "btChange": "Change date",
+    "btDelete": "Delete",
+    "prCreate": "Create a new reminder",
+    "prShow": "Show today's reminders",
+    "prLast": "Show last reminder"
+  },
+  "mh": {
+    "noReminders": "You have no active notifications today.",
+    "delReminder": "Reminder delete.",
+    "snoozeReminder": "Notification snooze for 15 min.",
+    "confirmReminder": "Confirmed.",
+    "err": "Something went wrong.",
+    "start": "Hello! I am a bot - a reminder. I can create reminders, execute them, and edit them. Write to me how I can help, or select a button in the menu."
+  }
+}
