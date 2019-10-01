@@ -25,5 +25,19 @@ Before starting the server, you must:
 4) Run npm install
 
 5) Start the server with a command node app.js
+
+6) You will need a ngrok to run locally
+
+    Use command ngrok http 5000
+    
+7) Сopy received https link to your facebook app dev dashboard in Webhooks -> Edit Subscription
+
+    https://developers.facebook.com/apps/<your app id>/webhooks/ 
+    
+    URL - your ngrok link
+    marker - your WEBHOOK_VERIFY_TOKEN
+    
+    
+  
     
 
